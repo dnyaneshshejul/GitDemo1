@@ -11,10 +11,12 @@ public class Test {
 			System.out.println("i is 1");
 		}
 		
-		System.out.println(i);
-				System.out.println(i);
-				System.out.println(i);
-				System.out.println(i);
+		//line are commented now
+		
+		/*
+		 * System.out.println(i); System.out.println(i); System.out.println(i);
+		 * System.out.println(i);
+		 */
 	
 	}
 }
