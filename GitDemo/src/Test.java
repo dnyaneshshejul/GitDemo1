@@ -10,6 +10,8 @@ public class Test {
 		else {
 			System.out.println("i is 1");
 		}
+		
+		System.out.println(i);
 			
 	}
 }
