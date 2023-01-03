@@ -11,12 +11,6 @@ public class Test {
 			System.out.println("i is 1");
 		}
 		
-		//line are commented now
-		
-		/*
-		 * System.out.println(i); System.out.println(i); System.out.println(i);
-		 * System.out.println(i);
-		 */
-	
+		System.out.println("New line from workspace 2");	
 	}
 }
